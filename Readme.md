@@ -1,6 +1,6 @@
 👋 Hello, I'm Sujjada Jabin     
    Flutter Developer  
-🏠   Living: Dhaka, Bangladesh
+
 
 
 
