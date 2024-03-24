@@ -21,7 +21,9 @@ Experienced Flutter Developer with a passion for creating innovative and efficie
 | Problem-solving        | Exceptional analytical and problem-solving skills                                             |
 | Communication          | Excellent verbal and written communication skills                                             |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujjada&show_icons=true&theme=radical)](https://github.com/Sujjada/github-readme-stats)
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujjada&layout=compact)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujjada&show_icons=true&theme=radical)](https://github.com/Sujjada/github-readme-stats)
 
 
 
