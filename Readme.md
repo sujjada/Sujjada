@@ -22,8 +22,7 @@ Experienced Flutter Developer with a passion for creating innovative and efficie
 | Communication          | Excellent verbal and written communication skills                                             |
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujjada&layout=compact)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujjada&show_icons=true&theme=radical)](https://github.com/Sujjada/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujjada&layout=compact)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujjada&show_icons=true&theme=radical)](https://github.com/Sujjada/github-readme-stats)
 
 
 
