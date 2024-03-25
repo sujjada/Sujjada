@@ -31,9 +31,9 @@ Experienced Flutter Developer with a passion for creating innovative and efficie
 👨🏻‍🎓   Education
 ---
 
-B.Sc. in Computer Science & Engineering  
-Daffodil International University  
-Daffodil Smart City,Dhaka, Bangladesh.
+ 🎓 B.Sc. in Computer Science & Engineering  
+  🏫 Daffodil International University  
+  🌍 Daffodil Smart City, Dhaka, Bangladesh
 
 
 Sports / Game / Activities / Hobby:
