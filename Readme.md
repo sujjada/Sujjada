@@ -8,7 +8,7 @@
 Experienced Flutter Developer with a passion for creating innovative and efficient mobile applications. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Seeking a challenging role to leverage my skills and contribute to cutting-edge mobile app development. 
 
 
-👨🏽‍💻   My Skills :
+👨🏽‍💻   My Skills 
 ---  
     
 | Category               | Skill                                                                                        |
@@ -21,8 +21,10 @@ Experienced Flutter Developer with a passion for creating innovative and efficie
 | Problem-solving        | Exceptional analytical and problem-solving skills                                             |
 | Communication          | Excellent verbal and written communication skills                                             |
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujjada&show_icons=true&theme=radical)](https://github.com/Sujjada/github-readme-stats)
+
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujjada&layout=compact)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujjada&show_icons=true&theme=radical)](https://github.com/Sujjada/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujjada&layout=compact)   
 
 
 
