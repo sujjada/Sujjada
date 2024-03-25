@@ -1,15 +1,16 @@
-👋 Hello, I'm Sujjada Jabin     
-   Flutter Developer  
+👋 Hello, I'm Sujjada Jabin  
+<b>Flutter Developer</b>    
+  
 
 
 
 
-👨‍🏫   About Me  
+👨‍🏫   <b>About Me  
 Experienced Flutter Developer with a passion for creating innovative and efficient mobile applications. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Seeking a challenging role to leverage my skills and contribute to cutting-edge mobile app development. 
 
 
 👨🏽‍💻   My Skills 
----  
+ 
     
 | Category               | Skill                                                                                        |
 |------------------------|----------------------------------------------------------------------------------------------|
@@ -29,7 +30,7 @@ Experienced Flutter Developer with a passion for creating innovative and efficie
 
 
 👨🏻‍🎓   Education
----
+
 
  🎓 B.Sc. in Computer Science & Engineering  
   🏫 Daffodil International University  
